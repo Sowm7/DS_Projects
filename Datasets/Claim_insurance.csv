@@ -1,0 +1,321 @@
+BenefUserID,ClmAmount,Clmdoa,Clmdod,ClmApprovedamt,StatusName,AilmentName,AilmentCode,TreatmentName,CityName,HospId
+108,20133,30AUG2008:12:00:00 AM,07SEP2008:12:00:00 AM,17121,Settled,Internal derangement of knee,M23,Surgical Management,Chennai,HopID-523
+114,37000,18DEC2008:12:00:00 AM,18DEC2008:12:00:00 AM,28080,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-279
+117,40000,18OCT2008:01:35:00 PM,25OCT2008:12:00:00 AM,40000,Settled,Other nontoxic goitre,E04,Surgical Management,Bangalore,HopID-32
+141,14078,22NOV2008:12:00:00 AM,04DEC2008:12:00:00 AM,0,Settled,Senile cataract LE (Left Eye),H26,Cataract,Bangalore,HopID-766
+147,16837,02SEP2008:12:00:00 AM,06SEP2008:12:00:00 AM,15637,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-258
+148,12053,16OCT2008:12:44:00 PM,20OCT2008:12:00:00 AM,11953,Settled,"Pleural effusion, not elsewhere classified",J90,Medical Management ( Conservartive Management),Kota,HopID-846
+159,50000,15OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,20000,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+186,21231,15SEP2008:12:00:00 AM,16SEP2008:12:00:00 AM,16000,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+192,18803,14SEP2008:12:00:00 AM,18SEP2008:12:00:00 AM,17433,Settled,Fracture of Wrist & hand,S62,Surgical Management,Mumbai,HopID-93
+194,38500,10OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,38500,Settled,Hyperplasia of Prostate,N40,Surgical Management,Bangalore,HopID-138
+195,57425,17SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,40205,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+224,22932,08DEC2008:12:00:00 AM,11DEC2008:12:00:00 AM,19053,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Shimoga,HopID-13
+242,28100,18OCT2008:12:00:00 AM,20OCT2008:12:00:00 AM,10000,Cancelled,"Complications of internal orthopaedic prosthetic devices, implants and",T84,Surgical Management,Mumbai,HopID-231
+247,23500,18OCT2008:01:09:00 PM,18OCT2008:03:00:00 PM,18000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Ahmedabad,HopID-45
+250,25750,16OCT2008:09:53:00 AM,20OCT2008:12:00:00 AM,10000,Settled,Fever Of Unknown Origin,R50,Medical Management ( Conservartive Management),Kolkata,HopID-154
+252,10000,15OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,8000,Settled,"Disorders related to short gestation and low birth weight, not classifi",P07,Medical Management ( Conservartive Management),Bangalore,HopID-610
+259,35724,18SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,32446,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+261,3229,11SEP2008:12:00:00 AM,12SEP2008:12:00:00 AM,3060,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+265,18988,01OCT2008:12:00:00 AM,05OCT2008:12:00:00 AM,16988,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+288,39714,18NOV2008:12:00:00 AM,22NOV2008:12:00:00 AM,,Settled,Other nontraumatic intracranial haemorrhage,I62,Surgical Management,Bangalore,HopID-32
+293,32630,09APR2008:12:00:00 AM,17APR2008:12:00:00 AM,,Cancelled,Haemorrhoids,I84,Surgical Management,Vadodara,HopID-611
+294,21670,04OCT2008:12:00:00 AM,09OCT2008:12:00:00 AM,13134,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+313,40000,17OCT2008:12:28:00 PM,21OCT2008:12:00:00 AM,20000,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+316,40000,17OCT2008:10:56:00 AM,22OCT2008:12:00:00 AM,30000,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+335,3361,11OCT2008:06:05:00 PM,17OCT2008:12:00:00 AM,3361,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+340,24801,11DEC2008:12:00:00 AM,13DEC2008:12:00:00 AM,18710,Settled,Other symptoms and signs,R68,Medical Management ( Conservartive Management),Bangalore,HopID-610
+341,21448,23SEP2008:12:00:00 AM,24SEP2008:12:00:00 AM,10000,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Chennai,HopID-809
+347,14100,29SEP2008:12:00:00 AM,01OCT2008:12:00:00 AM,0,Settled,Disorders of vestibular function,H81,Medical Management ( Conservartive Management),Kolenchery,HopID-531
+349,36075,28NOV2008:12:00:00 AM,02DEC2008:12:00:00 AM,34142,Settled,Inguinal Hernia,K40,Surgical Management,Delhi,HopID-791
+357,8031,11JUN2008:12:00:00 AM,13JUN2008:12:00:00 AM,7149,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+375,18557,10SEP2008:12:00:00 AM,15SEP2008:12:00:00 AM,17600,Settled,Internal derangement of knee,M23,Surgical Management,Chennai,HopID-523
+392,30555,22SEP2008:12:00:00 AM,29SEP2008:12:00:00 AM,28615,Denied Letter Sent,Unspecified lump in breast,N63,Surgical Management,Mumbai,HopID-447
+398,55245,18NOV2008:12:00:00 AM,24NOV2008:12:00:00 AM,52523,Cancelled,Angina pectoris,I20,Coronary Angiogram (CAG),Mumbai,HopID-901
+400,26326,19SEP2008:12:00:00 AM,22SEP2008:12:00:00 AM,23585,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-234
+417,8000,14OCT2008:03:12:00 PM,19OCT2008:12:00:00 AM,8000,Settled,Disorders of vestibular function,H81,Medical Management ( Conservartive Management),Kolenchery,HopID-531
+421,79803,26SEP2008:12:00:00 AM,04OCT2008:12:00:00 AM,78212,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+428,80912,13OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,80912,Settled,"Fracture of lower leg, including ankle",S82,Surgical Management,Hyderabad,HopID-73
+432,5855,12OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,5855,Settled,Diaorrhoea & gastroenteritis of presumed infectious origin,A09,Medical Management ( Conservartive Management),Chennai,HopID-274
+434,7472,22SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,7280,Settled,"Complications of other internal prosthetic devices, implants and grafts",T85,Surgical Management,Bangalore,HopID-695
+437,4802,12JUL2008:12:00:00 AM,14JUL2008:12:00:00 AM,4270,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+441,159348,18DEC2008:12:00:00 AM,23DEC2008:12:00:00 AM,65652,Settled,Fever Of Unknown Origin,R50,Medical Management ( Conservartive Management),Bangalore,HopID-399
+443,5383,19JUL2008:12:00:00 AM,21JUL2008:12:00:00 AM,5233,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+448,8785,13OCT2008:12:47:00 PM,18OCT2008:12:00:00 AM,8785,Settled,"Fracture of lower leg, including ankle",S82,Surgical Management,Chennai,HopID-954
+449,18410,30JUL2008:12:00:00 AM,11AUG2008:12:00:00 AM,1959,Settled,"Benign neoplasm of colon, rectum, anus and anal canal",D12,Surgical Management,Mumbai,HopID-988
+451,24005,21OCT2008:01:04:00 PM,23OCT2008:06:00:00 PM,20000,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Cochin,HopID-702
+452,7662,08NOV2008:12:00:00 AM,09NOV2008:12:00:00 AM,5512,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+464,22000,10DEC2008:12:00:00 AM,10DEC2008:12:00:00 AM,18000,Settled,Other arthritis,M13,Surgical Management,Kolkata,HopID-756
+470,15814,26SEP2008:12:00:00 AM,27SEP2008:12:00:00 AM,15474,Settled,"Pleural effusion, not elsewhere classified",J90,Medical Management ( Conservartive Management),Kota,HopID-846
+476,4281,19DEC2008:09:38:00 PM,24DEC2008:12:00:00 AM,4281,Settled,Essential (primary) hypertension,I10,Medical Management ( Conservartive Management),Bangalore,HopID-32
+477,20000,16OCT2008:12:41:00 PM,18OCT2008:12:00:00 AM,20000,Settled,Malignant neoplasm of breast,C50,Therapy (Chemo / Radio),Bangalore,HopID-32
+500,24075,25JUL2008:12:00:00 AM,07OCT2008:12:00:00 AM,17375,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+507,19132,04OCT2008:12:00:00 AM,07OCT2008:12:00:00 AM,11932,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+508,40000,29DEC2008:12:00:00 AM,31DEC2008:12:00:00 AM,40000,Settled,Senile cataract RE (Rt. Eye),H25,Cataract,Mumbai,HopID-174
+521,41103,22NOV2008:12:00:00 AM,28NOV2008:12:00:00 AM,39373,Settled,Other disorders of eyes & adnexa,H57,Surgical Management,Hyderabad,HopID-73
+529,39209,23SEP2008:12:00:00 AM,28SEP2008:12:00:00 AM,25500,Settled,Superficial Injury of head,S00,Surgical Management,Hyderabad,HopID-73
+540,8000,20DEC2008:12:00:00 AM,22DEC2008:12:00:00 AM,8000,Settled,Viral infection of unspecified site,B34,Medical Management ( Conservartive Management),Bangalore,HopID-208
+556,11361,25JUL2008:12:00:00 AM,30JUL2008:12:00:00 AM,10696,Cancelled,Haemorrhoids,I84,Surgical Management,Vadodara,HopID-611
+561,2821,12SEP2008:08:45:00 PM,16SEP2008:12:00:00 AM,2821,Settled,Viral infection of unspecified site,B34,Medical Management ( Conservartive Management),Mysore,HopID-209
+563,40000,16OCT2008:01:32:00 PM,19OCT2008:12:00:00 AM,15000,Settled,"Complications of other internal prosthetic devices, implants and grafts",T85,Surgical Management,Bangalore,HopID-695
+566,5744,21JUN2008:12:00:00 AM,05JUL2008:12:00:00 AM,5744,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+567,20000,07NOV2008:10:59:00 AM,09NOV2008:12:00:00 AM,20000,Settled,Chronic renal failure,N18,Surgical Management,Hyderabad,HopID-674
+571,8712,27AUG2008:12:00:00 AM,30AUG2008:12:00:00 AM,8000,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+574,43210,16NOV2008:12:00:00 AM,19NOV2008:12:00:00 AM,38121,Settled,"Stroke,not specified as haemorrhage or infarction",I64,Medical Management ( Conservartive Management),Hyderabad,HopID-260
+576,300,18OCT2008:12:00:00 AM,25OCT2008:12:00:00 AM,300,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+585,11783,12AUG2008:12:00:00 AM,12AUG2008:12:00:00 AM,10605,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Gurgaon,HopID-995
+589,1394,03SEP2008:12:00:00 AM,05SEP2008:12:00:00 AM,1364,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+591,380000,21DEC2008:12:00:00 AM,24DEC2008:12:00:00 AM,250000,Settled,Other heart disorders in diseases classified elsewhere,I52,Coronary Angiogram (CAG),Mumbai,HopID-120
+602,10000,16SEP2008:12:00:00 AM,18SEP2008:12:00:00 AM,,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+616,40000,16OCT2008:09:54:00 AM,20OCT2008:12:00:00 AM,30000,Settled,Single delivery by caesarean section,O82,Surgical Management,Lucknow,HopID-519
+627,10144,11OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,10144,Settled,Disorders of other cranial nerves,G52,Surgical Management,Bangalore,HopID-690
+644,12495,25SEP2008:12:00:00 AM,28SEP2008:12:00:00 AM,12165,Settled,Malignant neoplasm of breast,C50,Therapy (Chemo / Radio),Bangalore,HopID-32
+676,14292,09JUL2008:12:00:00 AM,13JUL2008:12:00:00 AM,13542,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+683,156000,01SEP2008:12:00:00 AM,01SEP2008:12:00:00 AM,118242,Denied Letter Sent,Other disorders of breast,N64,Surgical Management,Bangalore,HopID-442
+685,10000,27MAY2008:12:00:00 AM,27MAY2008:12:00:00 AM,10000,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+698,10489,26SEP2008:12:00:00 AM,29SEP2008:12:00:00 AM,8902,Settled,Fever Of Unknown Origin,R50,Medical Management ( Conservartive Management),Kolkata,HopID-154
+701,2902,03AUG2008:12:00:00 AM,07AUG2008:12:00:00 AM,2737,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+715,35000,15OCT2008:03:55:00 PM,18OCT2008:12:00:00 AM,35000,Settled,Superficial Injury of head,S00,Surgical Management,Hyderabad,HopID-73
+734,14867,10DEC2008:12:00:00 AM,13DEC2008:12:00:00 AM,12570,Cancelled,Angina pectoris,I20,Coronary Angiogram (CAG),Mumbai,HopID-901
+763,41850,16NOV2008:12:00:00 AM,26NOV2008:12:00:00 AM,26857,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-279
+781,8427,01SEP2008:12:00:00 AM,02SEP2008:12:00:00 AM,7559,Settled,Cervical disc disorders,M50,Medical Management ( Conservartive Management),Trivandram,HopID-73
+791,5950,21DEC2008:12:00:00 AM,31DEC2008:12:00:00 AM,4500,Settled,Other intervertebral disc disorders,M51,Medical Management ( Conservartive Management),Kannur,HopID-131
+793,15000,13OCT2008:12:00:00 AM,23OCT2008:12:00:00 AM,10000,Settled,Fracture of Wrist & hand,S62,Surgical Management,Mumbai,HopID-93
+796,20430,06OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,20430,Settled,Hyperplasia of Prostate,N40,Surgical Management,Bangalore,HopID-138
+814,33245,01DEC2008:12:00:00 AM,08DEC2008:12:00:00 AM,33140,Settled,Other arthritis,M13,Surgical Management,Kolkata,HopID-756
+822,5769,05SEP2008:12:00:00 AM,07SEP2008:12:00:00 AM,3131,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+824,1773,03AUG2008:12:00:00 AM,03AUG2008:12:00:00 AM,0,Settled,Cellulitis,L03,Medical Management ( Conservartive Management),Coimbatore,HopID-521
+828,31050,17OCT2008:04:21:00 PM,20OCT2008:12:00:00 AM,31050,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+830,31763,10SEP2008:08:53:00 PM,14SEP2008:12:00:00 AM,16763,Settled,Unspecified malaria,B54,Medical Management ( Conservartive Management),Mumbai,HopID-901
+835,12717,27SEP2008:12:00:00 AM,28SEP2008:12:00:00 AM,12717,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+836,42119,31AUG2008:12:00:00 AM,26SEP2008:12:00:00 AM,0,Settled,Single delivery by caesarean section,O82,Surgical Management,Kolkata,HopID-482
+848,6500,09OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,6080,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+869,41000,20OCT2008:03:02:00 PM,23OCT2008:12:00:00 AM,20000,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-234
+883,24399,01SEP2008:12:00:00 AM,30SEP2008:12:00:00 AM,24399,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+884,9366,19AUG2008:12:00:00 AM,21AUG2008:12:00:00 AM,7218,Settled,Cholecystitis,K81,Surgical Management,Chennai,HopID-285
+896,27461,18SEP2008:12:00:00 AM,21SEP2008:12:00:00 AM,11918,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Cochin,HopID-702
+925,16679,13OCT2008:12:00:00 AM,20OCT2008:12:00:00 AM,16679,Settled,Haemorrhoids,I84,Surgical Management,Bangalore,HopID-428
+933,22329,16DEC2008:12:00:00 AM,17DEC2008:12:00:00 AM,22024,Cancelled,Fracture of Wrist & hand,S62,Surgical Management,Bangalore,HopID-52
+957,10115,15SEP2008:12:00:00 AM,19SEP2008:12:00:00 AM,9773,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+960,213245,15SEP2008:12:00:00 AM,20SEP2008:12:00:00 AM,100000,Cancelled,Essential (primary) hypertension,I10,Medical Management ( Conservartive Management),Mumbai,HopID-589
+970,4070,13AUG2008:12:00:00 AM,15AUG2008:12:00:00 AM,4070,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Mumbai,HopID-115
+972,2148,18SEP2008:12:00:00 AM,22SEP2008:12:00:00 AM,2148,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+976,53230,01OCT2008:12:00:00 AM,06OCT2008:12:00:00 AM,30000,Settled,Chronic renal failure,N18,Medical Management ( Conservartive Management),New Delhi,HopID-719
+979,15600,16OCT2008:05:30:00 PM,20OCT2008:12:00:00 AM,15600,Settled,Premature separation of placenta [abruptio placentae],O45,Medical Management ( Conservartive Management),Pune,HopID-535
+983,25850,23JUL2008:12:00:00 AM,24JUL2008:12:00:00 AM,10000,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+999,17626,28SEP2008:12:00:00 AM,29SEP2008:12:00:00 AM,17626,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+1012,18603,09APR2008:12:00:00 AM,12APR2008:12:00:00 AM,18523,Settled,Internal derangement of knee,M23,Surgical Management,Chennai,HopID-523
+1013,13191,07SEP2008:12:00:00 AM,11SEP2008:12:00:00 AM,10496,Settled,Chronic diseases of tonsils and adenoids,J35,Surgical Management,Bangalore,HopID-530
+1014,9720,21DEC2008:12:00:00 AM,30DEC2008:12:00:00 AM,9720,Settled,Cervical disc disorders,M50,Medical Management ( Conservartive Management),Pune,HopID-190
+1024,14850,08DEC2008:12:00:00 AM,12DEC2008:12:00:00 AM,14850,Settled,"Redundant perpuce, phimosis and paraphimosis",N47,Surgical Management,Puttur,HopID-207
+1049,177000,22DEC2008:08:26:00 PM,27DEC2008:12:00:00 AM,30000,Settled,Other heart disorders in diseases classified elsewhere,I52,Angioplasty (PTCA),Nagpur,HopID-754
+1072,8997,27AUG2008:12:00:00 AM,04SEP2008:12:00:00 AM,0,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Chennai,HopID-809
+1078,34400,22DEC2008:12:00:00 AM,24DEC2008:12:00:00 AM,11000,Settled,Inguinal Hernia,K40,Surgical Management,Delhi,HopID-791
+1079,35850,05JAN2009:12:00:00 AM,05JAN2009:12:00:00 AM,35850,Settled,Senile cataract RE (Rt. Eye),H25,Cataract,Mumbai,HopID-327
+1114,5294,14JUN2008:12:00:00 AM,18JUN2008:12:00:00 AM,3280,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+1130,30147,22SEP2008:12:00:00 AM,24SEP2008:12:00:00 AM,27567,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+1131,7334,18JUL2008:12:00:00 AM,18JUL2008:12:00:00 AM,0,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+1134,97644,04OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,97644,Settled,Other diseases of gallbladder,K82,Surgical Management,Kolkata,HopID-482
+1138,41018,28NOV2008:12:00:00 AM,30NOV2008:12:00:00 AM,34895,Cancelled,Other abortion,O05,NULL,Kolkata,HopID-180
+1143,15174,30OCT2008:12:00:00 AM,03NOV2008:12:00:00 AM,14924,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+1144,50000,16OCT2008:03:31:00 PM,20OCT2008:12:00:00 AM,40000,Settled,Hyperplasia of Prostate,N40,Surgical Management,Bangalore,HopID-138
+1148,20000,16OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,16000,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+1159,5570,10JUL2008:12:00:00 AM,13JUL2008:12:00:00 AM,3401,Settled,Cellulitis,L03,Medical Management ( Conservartive Management),Coimbatore,HopID-521
+1165,4320,14OCT2008:10:02:00 AM,18OCT2008:12:00:00 AM,4320,Settled,"Stroke,not specified as haemorrhage or infarction",I64,Medical Management ( Conservartive Management),Hyderabad,HopID-867
+1169,464,11NOV2008:12:00:00 AM,13NOV2008:12:00:00 AM,446,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-279
+1190,6800,28AUG2008:12:00:00 AM,29AUG2008:12:00:00 AM,6800,Cancelled,Haemorrhoids,I84,Surgical Management,Vadodara,HopID-611
+1191,80000,21DEC2008:06:06:00 PM,26DEC2008:12:00:00 AM,6169,Settled,Other disorders of brain in diseases classified elsewhere,G94,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1205,15000,16OCT2008:05:09:00 PM,20OCT2008:12:00:00 AM,,Cancelled,Gestational [pregnancy induced] hypertension without significant protei,O13,Medical Management ( Conservartive Management),Bangalore,HopID-30
+1237,4011,10JUL2008:12:00:00 AM,11JUL2008:12:00:00 AM,3861,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+1242,16754,05SEP2008:12:00:00 AM,06SEP2008:12:00:00 AM,16254,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+1247,6464,31AUG2008:12:00:00 AM,05SEP2008:12:00:00 AM,5518,Settled,Fracture of Wrist & hand,S62,Surgical Management,Mumbai,HopID-93
+1268,25308,10OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,20000,Settled,"Stroke,not specified as haemorrhage or infarction",I64,Medical Management ( Conservartive Management),Hyderabad,HopID-867
+1280,12130,11JUL2008:12:00:00 AM,12JUL2008:12:00:00 AM,10000,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+1285,23566,30AUG2008:12:00:00 AM,02SEP2008:12:00:00 AM,0,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+1305,11000,23AUG2008:12:00:00 AM,24AUG2008:12:00:00 AM,7750,Settled,Unspecified malaria,B54,Medical Management ( Conservartive Management),Mumbai,HopID-901
+1308,31867,04OCT2008:12:00:00 AM,16OCT2008:12:00:00 AM,0,Settled,Unspecified acute lower respiratory infection,J22,Medical Management ( Conservartive Management),Trivandram,HopID-73
+1314,56070,29MAY2008:12:00:00 AM,04JUN2008:12:00:00 AM,,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+1330,24863,03JUL2008:12:00:00 AM,25JUL2008:12:00:00 AM,0,Denied Letter Sent,Diaorrhoea & gastroenteritis of presumed infectious origin,A09,Medical Management ( Conservartive Management),Bangalore,HopID-948
+1346,10500,16OCT2008:02:40:00 PM,18OCT2008:12:00:00 AM,0,Denied Letter Sent,Other bacterial intestinal infections,A04,Medical Management ( Conservartive Management),Hyderabad,HopID-109
+1363,80730,06DEC2008:01:49:00 PM,22DEC2008:12:00:00 AM,80730,Settled,Malignant neoplasm of brain,C71,Medical Management ( Conservartive Management),Hyderabad,HopID-405
+1372,26422,25JUL2008:12:00:00 AM,28JUL2008:12:00:00 AM,15000,Settled,Malignant neoplasm of colon,C18,Therapy (Chemo / Radio),Mumbai,HopID-272
+1381,13500,22DEC2008:12:00:00 AM,25DEC2008:12:00:00 AM,8000,Settled,Malignant neoplasm of rectum,C20,Surgical Management,Pune,HopID-655
+1386,16964,11AUG2008:12:00:00 AM,11AUG2008:12:00:00 AM,0,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+1398,24556,01AUG2008:12:00:00 AM,15SEP2008:12:00:00 AM,8029,Denied Letter Sent,Other disorders of breast,N64,Surgical Management,Bangalore,HopID-442
+1432,60000,14OCT2008:12:00:00 AM,29OCT2008:12:00:00 AM,30000,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+1461,35213,19DEC2008:06:50:00 PM,22DEC2008:12:00:00 AM,34613,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-182
+1473,3053,18AUG2008:12:00:00 AM,19AUG2008:12:00:00 AM,2803,Cancelled,Haemorrhoids,I84,Surgical Management,Vadodara,HopID-611
+1481,2889,26SEP2008:12:00:00 AM,27SEP2008:12:00:00 AM,2000,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Chennai,HopID-809
+1488,35000,16OCT2008:01:07:00 PM,19OCT2008:12:00:00 AM,20000,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1490,44014,22SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,0,Settled,Ventral hernia,K43,Surgical Management,Bangalore,HopID-399
+1495,25000,16OCT2008:01:40:00 PM,19OCT2008:12:00:00 AM,20000,Settled,Other nontoxic goitre,E04,Surgical Management,Bangalore,HopID-32
+1496,30355,26SEP2008:12:00:00 AM,01OCT2008:12:00:00 AM,,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+1500,25916,31JUL2008:12:00:00 AM,02AUG2008:12:00:00 AM,0,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+1505,25000,18OCT2008:11:39:00 AM,20OCT2008:12:00:00 AM,20000,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+1510,9366,10SEP2008:12:00:00 AM,16SEP2008:12:00:00 AM,9316,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+1514,9606,07OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,9606,Settled,Fissure and fistula of anal and rectal regions,K60,Surgical Management,Pune,HopID-837
+1515,21268,08SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+1519,45000,14SEP2008:11:10:00 AM,19SEP2008:12:00:00 AM,35000,Settled,Cholecystitis,K81,Surgical Management,Chennai,HopID-285
+1520,35000,22DEC2008:07:22:00 PM,26DEC2008:12:00:00 AM,25000,Settled,Fissure and fistula of anal and rectal regions,K60,Surgical Management,Trivandram,HopID-562
+1522,20000,23DEC2008:12:00:00 AM,24DEC2008:12:00:00 AM,20000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+1525,20056,06OCT2008:12:00:00 AM,09OCT2008:12:00:00 AM,18649,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+1530,30000,26DEC2008:06:29:00 PM,27DEC2008:12:00:00 AM,25000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Bangalore,HopID-766
+1531,23500,18SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,22420,Settled,Disorders of vestibular function,H81,Medical Management ( Conservartive Management),Kolenchery,HopID-531
+1535,2149,12OCT2008:12:00:00 AM,13OCT2008:12:00:00 AM,2149,Settled,"Excessive, frequent and irregular mensuration",N92,Surgical Management,Delhi,HopID-274
+1544,17437,12DEC2008:12:00:00 AM,12DEC2008:12:00:00 AM,0,Settled,Senile cataract LE (Left Eye),H26,Cataract,Bangalore,HopID-766
+1555,35000,11SEP2008:12:00:00 AM,21SEP2008:12:00:00 AM,20000,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-258
+1567,244809,18JUN2008:12:00:00 AM,21JUN2008:12:00:00 AM,,Settled,Other intervertebral disc disorders,M51,Medical Management ( Conservartive Management),Coimbatore,HopID-932
+1574,277096,11SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,60000,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+1592,1198,01SEP2008:12:00:00 AM,03SEP2008:12:00:00 AM,,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+1595,44471,06SEP2008:12:00:00 AM,10SEP2008:12:00:00 AM,43737,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+1599,15972,30AUG2008:12:00:00 AM,04SEP2008:12:00:00 AM,12142,Settled,"Disorders related to short gestation and low birth weight, not classifi",P07,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1616,42470,01OCT2008:12:00:00 AM,08OCT2008:12:00:00 AM,38423,Cancelled,Other abortion,O05,NULL,Kolkata,HopID-180
+1618,29000,13SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,16000,Settled,Other disorders of nose and nasal sinuses,J34,Cataract,Hospet,HopID-458
+1623,63750,09OCT2008:12:00:00 AM,12OCT2008:12:00:00 AM,48131,Cancelled,Asthma,J45,Medical Management ( Conservartive Management),Ahmedabad,HopID-17
+1647,19300,08JUL2008:12:00:00 AM,09JUL2008:12:00:00 AM,0,Settled,"Disorders related to short gestation and low birth weight, not classifi",P07,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1666,29300,06OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,29300,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+1674,10187,22OCT2008:12:00:00 AM,28OCT2008:12:00:00 AM,9220,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Chennai,HopID-809
+1685,44847,06SEP2008:12:00:00 AM,12SEP2008:12:00:00 AM,44208,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1708,6642,24JUL2008:12:00:00 AM,26JUL2008:12:00:00 AM,6642,Settled,Fissure and fistula of anal and rectal regions,K60,Surgical Management,Pune,HopID-837
+1715,4910,21SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,,Settled,"Disorders related to short gestation and low birth weight, not classifi",P07,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1731,15000,21DEC2008:05:59:00 PM,25DEC2008:12:00:00 AM,8000,Settled,Pneumonia Organism unspecified,J18,Medical Management ( Conservartive Management),Chickmagalor,HopID-111
+1734,113426,25AUG2008:12:00:00 AM,15SEP2008:12:00:00 AM,103750,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+1737,7779,13SEP2008:12:00:00 AM,18SEP2008:12:00:00 AM,4679,Cancelled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-710
+1741,36852,27SEP2008:12:00:00 AM,03OCT2008:12:00:00 AM,32005,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+1743,82952,12OCT2008:01:04:00 PM,15OCT2008:12:00:00 AM,82952,Settled,Ventral hernia,K43,Surgical Management,Bangalore,HopID-399
+1746,7586,06JUN2008:12:00:00 AM,08JUN2008:12:00:00 AM,5786,Settled,Cellulitis,L03,Medical Management ( Conservartive Management),Coimbatore,HopID-521
+1757,10000,24DEC2008:12:00:00 AM,26DEC2008:12:00:00 AM,6000,Settled,Other intervertebral disc disorders,M51,Medical Management ( Conservartive Management),Coimbatore,HopID-932
+1773,37190,01SEP2008:12:00:00 AM,10SEP2008:12:00:00 AM,33668,Cancelled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-710
+1820,20000,26DEC2008:12:00:00 AM,28DEC2008:12:00:00 AM,10000,Settled,"Localised swelling, mass and lump of skin and subcutaneous tissue",R22,Surgical Management,Bangalore,HopID-695
+1827,30000,12NOV2008:12:00:00 AM,12NOV2008:12:00:00 AM,16000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-895
+1853,40000,12SEP2008:04:12:00 PM,15SEP2008:12:00:00 AM,15000,Cancelled,Haemorrhoids,I84,Surgical Management,Vadodara,HopID-611
+1860,17977,15SEP2008:12:00:00 AM,18SEP2008:12:00:00 AM,17477,Settled,Malignant neoplasm of breast,C50,Therapy (Chemo / Radio),Bangalore,HopID-32
+1869,27278,14SEP2008:12:00:00 AM,19SEP2008:12:00:00 AM,27278,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+1876,7109,18SEP2008:12:00:00 AM,18SEP2008:12:00:00 AM,7000,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-234
+1878,9616,09SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,,Settled,Fracture of Wrist & hand,S62,Surgical Management,Mumbai,HopID-93
+1886,20000,16OCT2008:12:00:00 AM,19OCT2008:12:00:00 AM,20000,Cancelled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-988
+1891,110000,22DEC2008:06:01:00 PM,25DEC2008:12:00:00 AM,100000,Cancelled,Other arthritis,M13,Surgical Management,Pune,HopID-881
+1899,8075,23MAR2008:12:00:00 AM,24MAR2008:12:00:00 AM,6825,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+1920,17591,06DEC2008:12:00:00 AM,09DEC2008:12:00:00 AM,,Settled,Intracranial injury,S06,Surgical Management,Nagarcoil,HopID-14
+1940,50329,13JUN2008:12:00:00 AM,30JUN2008:12:00:00 AM,35000,Settled,Unspecified malaria,B54,Medical Management ( Conservartive Management),Mumbai,HopID-210
+1941,8768,27SEP2008:12:00:00 AM,28SEP2008:12:00:00 AM,8768,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+1944,10000,17JUN2008:12:00:00 AM,18JUN2008:12:00:00 AM,10000,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+1950,41750,13SEP2008:04:20:00 PM,18SEP2008:12:00:00 AM,30000,Denied Letter Sent,Retention of urine,R33,Medical Management ( Conservartive Management),Chennai,HopID-305
+1953,12435,25AUG2008:12:00:00 AM,07SEP2008:12:00:00 AM,9267,Settled,Malignant neoplasm of breast,C50,Therapy (Chemo / Radio),Bangalore,HopID-32
+1959,8519,27JUL2008:12:00:00 AM,29JUL2008:12:00:00 AM,7829,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+1969,25000,15OCT2008:03:06:00 PM,21OCT2008:12:00:00 AM,15000,Settled,"Fetus and newborn affected by complications of placenta, cord and membr",P02,Medical Management ( Conservartive Management),Bangalore,HopID-695
+1974,5973,22SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,5615,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+1980,15000,11DEC2008:12:00:00 AM,11DEC2008:12:00:00 AM,0,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Shimoga,HopID-13
+1981,20000,22DEC2008:05:52:00 PM,23DEC2008:12:00:00 AM,15000,Settled,Hydrocele and spermatocele,N43,Surgical Management,Chennai,HopID-321
+1982,13014,16SEP2008:12:00:00 AM,17SEP2008:12:00:00 AM,12234,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+1984,10000,16OCT2008:10:17:00 AM,16OCT2008:06:00:00 PM,10000,Settled,"Redundant perpuce, phimosis and paraphimosis",N47,Surgical Management,Mumbai,HopID-314
+2006,19000,10SEP2008:12:00:00 AM,16SEP2008:12:00:00 AM,13000,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Gurgaon,HopID-995
+2007,12100,23DEC2008:12:00:00 AM,25DEC2008:12:00:00 AM,9000,Settled,Other disorders of male genital organs,N50,Surgical Management,Mumbai,HopID-135
+2039,12345,01AUG2008:12:00:00 AM,02AUG2008:12:00:00 AM,12145,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2041,12000,15OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,0,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+2071,168000,22DEC2008:07:52:00 PM,24DEC2008:12:00:00 AM,81549,Settled,Other heart disorders in diseases classified elsewhere,I52,Medical Management ( Conservartive Management),Bangalore,HopID-690
+2080,25000,23DEC2008:12:00:00 AM,25DEC2008:12:00:00 AM,12000,Cancelled,Fracture of Wrist & hand,S62,Surgical Management,Bangalore,HopID-52
+2082,22762,13OCT2008:05:52:00 PM,16OCT2008:12:00:00 AM,22762,Settled,Single spontaneous delivery,O80,Medical Management ( Conservartive Management),Bangalore,HopID-33
+2084,25225,29SEP2008:12:00:00 AM,05OCT2008:12:00:00 AM,24176,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+2093,8400,03SEP2008:12:00:00 AM,27SEP2008:12:00:00 AM,8400,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2095,5700,22DEC2008:08:24:00 PM,28DEC2008:12:00:00 AM,4500,Settled,Enlarged lymph nodes,R59,Medical Management ( Conservartive Management),Perumbavoor,HopID-879
+2133,20430,06OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,,Settled,Other abortion,O05,Surgical Management,Kolkata,HopID-180
+2136,10200,16OCT2008:12:00:00 AM,19OCT2008:12:00:00 AM,,Cancelled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-710
+2143,33000,16OCT2008:03:04:00 PM,21OCT2008:12:00:00 AM,0,Denied Letter Sent,Single delivery by caesarean section,O82,Surgical Management,Chennai,HopID-939
+2148,24500,12SEP2008:04:17:00 PM,17SEP2008:12:00:00 AM,14000,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Gurgaon,HopID-995
+2156,11473,17JUL2008:12:00:00 AM,19JUL2008:12:00:00 AM,10848,Settled,"Excessive, frequent and irregular mensuration",N92,Surgical Management,Delhi,HopID-274
+2161,50000,16OCT2008:11:56:00 AM,18OCT2008:12:00:00 AM,50000,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+2169,8671,02SEP2008:12:00:00 AM,05SEP2008:12:00:00 AM,0,Settled,Typhoid and paratyphoid fevers,A01,Medical Management ( Conservartive Management),Bangalore,HopID-610
+2176,12300,06DEC2008:12:10:00 PM,22DEC2008:12:00:00 AM,12300,Settled,Other intervertebral disc disorders,M51,Surgical Management,Vijayawada,HopID-282
+2195,49000,24DEC2008:06:46:00 PM,25DEC2008:12:00:00 AM,20000,Cancelled,Senile cataract RE (Rt. Eye),H25,Cataract,Chennai,HopID-886
+2201,4943,16DEC2008:12:00:00 AM,18DEC2008:12:00:00 AM,0,Denied Letter Sent,Purpura and other haemorrhagic conditions,D69,Medical Management ( Conservartive Management),Bangalore,HopID-710
+2203,8807,01SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2238,25512,12DEC2008:12:00:00 AM,14DEC2008:12:00:00 AM,25462,Settled,Essential (primary) hypertension,I10,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2255,4885,07OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,4750,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+2261,20605,19SEP2008:12:00:00 AM,24SEP2008:12:00:00 AM,15040,Settled,Malignant neoplasm of colon,C18,Therapy (Chemo / Radio),Mumbai,HopID-272
+2265,207091,12NOV2008:12:00:00 AM,21NOV2008:12:00:00 AM,207078,Settled,Hyperplasia of Prostate,N40,Surgical Management,Bangalore,HopID-138
+2267,3165,18JUL2008:12:00:00 AM,20JUL2008:12:00:00 AM,3107,Cancelled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-988
+2273,30000,12SEP2008:12:00:00 AM,17SEP2008:12:00:00 AM,0,Denied Letter Sent,Acute Bronchitis,J20,Medical Management ( Conservartive Management),Chennai,HopID-68
+2292,219560,28SEP2008:12:00:00 AM,29SEP2008:12:00:00 AM,50000,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+2298,74000,16DEC2008:12:00:00 AM,16DEC2008:12:00:00 AM,74000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-279
+2306,112505,11DEC2008:10:27:00 AM,22DEC2008:12:00:00 AM,,Cancelled,Intracerebral haemorrhage,I61,Medical Management ( Conservartive Management),Vellore,HopID-212
+2309,40037,29AUG2008:12:00:00 AM,31AUG2008:12:00:00 AM,33664,Settled,"Disorders related to short gestation and low birth weight, not classifi",P07,Medical Management ( Conservartive Management),Bangalore,HopID-610
+2312,30683,06OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,29496,Cancelled,Essential (primary) hypertension,I10,Medical Management ( Conservartive Management),Mumbai,HopID-589
+2321,2420,26AUG2008:12:00:00 AM,01SEP2008:12:00:00 AM,2320,Settled,Other diseases of anus and rectum,K62,Surgical Management,Bhubaneswar,HopID-814
+2322,35294,01JUN2008:12:00:00 AM,15JUN2008:12:00:00 AM,,Cancelled,Other abortion,O05,NULL,Kolkata,HopID-180
+2326,47420,23SEP2008:12:00:00 AM,26SEP2008:12:00:00 AM,47420,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+2333,5902,17JUL2008:12:00:00 AM,21JUL2008:12:00:00 AM,5302,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-490
+2342,8997,13DEC2008:12:00:00 AM,15DEC2008:12:00:00 AM,7292,Settled,Other disorders of eyes & adnexa,H57,Surgical Management,Hyderabad,HopID-73
+2343,20953,20DEC2008:06:44:00 PM,22DEC2008:12:00:00 AM,0,Denied Letter Sent,Injury of muscle and tendon at lower leg level,S86,Medical Management ( Conservartive Management),Pune,HopID-655
+2357,27855,30SEP2008:12:00:00 AM,01OCT2008:12:00:00 AM,27051,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+2362,150000,14APR2008:11:41:00 AM,20APR2008:12:00:00 AM,,Cancelled,"Fracture of lower limb, level unspecified",T12,NULL,Chennai,HopID-31
+2378,32326,14OCT2008:02:00:00 PM,18OCT2008:12:00:00 AM,29680,Settled,Hydrocele and spermatocele,N43,Surgical Management,Trivandram,HopID-493
+2394,14350,17DEC2008:12:00:00 AM,22DEC2008:12:00:00 AM,14350,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Chennai,HopID-809
+2401,12145,19SEP2008:12:00:00 AM,20SEP2008:12:00:00 AM,,Settled,Diaorrhoea & gastroenteritis of presumed infectious origin,A09,Medical Management ( Conservartive Management),Bangalore,HopID-399
+2410,24363,22SEP2008:12:00:00 AM,30SEP2008:12:00:00 AM,23963,Cancelled,Gestational [pregnancy induced] hypertension without significant protei,O13,Medical Management ( Conservartive Management),Bangalore,HopID-30
+2411,15708,07SEP2008:12:00:00 AM,14SEP2008:12:00:00 AM,15110,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+2434,33412,13OCT2008:12:00:00 AM,17OCT2008:12:00:00 AM,33412,Settled,Fracture of Wrist & hand,S62,Surgical Management,Mumbai,HopID-93
+2436,250000,27DEC2008:12:00:00 AM,03JAN2009:12:00:00 AM,250000,Settled,Other arthritis,M13,Surgical Management,Kolkata,HopID-756
+2439,15000,11SEP2008:03:54:00 PM,16SEP2008:12:00:00 AM,5000,Settled,Neonatal jaundice from other and unspecified causes,P59,Medical Management ( Conservartive Management),Bangalore,HopID-428
+2449,35857,08SEP2008:12:00:00 AM,22SEP2008:12:00:00 AM,30891,Settled,Senile cataract LE (Left Eye),H26,Cataract,Mumbai,HopID-119
+2464,11070,06OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,11070,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+2478,55843,09DEC2008:02:57:00 PM,22DEC2008:12:00:00 AM,30000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+2482,16759,02SEP2008:12:00:00 AM,03SEP2008:12:00:00 AM,14059,Settled,Multiple myeloma and malignant plasma cell neoplasms,C90,Therapy (Chemo / Radio),Bangalore,HopID-139
+2484,9733,26SEP2008:12:00:00 AM,29SEP2008:12:00:00 AM,9133,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2485,15000,18SEP2008:12:00:00 AM,19SEP2008:12:00:00 AM,15000,Settled,Senile cataract RE (Rt. Eye),H25,Surgical Management,Trichy,HopID-0
+2502,32750,20DEC2008:05:08:00 PM,24DEC2008:12:00:00 AM,20000,Settled,Fissure and fistula of anal and rectal regions,K60,Surgical Management,Dispur,HopID-64
+2521,53552,12OCT2008:12:00:00 AM,15OCT2008:12:00:00 AM,52975,Settled,Hydrocele and spermatocele,N43,Surgical Management,Trivandram,HopID-493
+2544,2490,11OCT2008:12:00:00 AM,16OCT2008:12:00:00 AM,1290,Settled,Malignant neoplasm of ovary,C56,Therapy (Chemo / Radio),Mumbai,HopID-498
+2554,74065,16SEP2008:12:00:00 AM,22SEP2008:12:00:00 AM,50000,Settled,Fracture of Wrist & hand,S62,Surgical Management,Chennai,HopID-82
+2558,163778,09SEP2008:12:00:00 AM,27SEP2008:12:00:00 AM,141740,Settled,Fissure and fistula of anal and rectal regions,K60,Surgical Management,Pune,HopID-837
+2560,71750,31OCT2008:12:00:00 AM,05NOV2008:12:00:00 AM,30000,Settled,Internal derangement of knee,M23,Surgical Management,Chennai,HopID-523
+2563,22256,08SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,13027,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2572,27196,28SEP2008:12:00:00 AM,04OCT2008:12:00:00 AM,22563,Settled,Other nontoxic goitre,E04,Surgical Management,Bangalore,HopID-32
+2576,16867,18SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,16420,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2578,18004,20AUG2008:12:00:00 AM,25AUG2008:12:00:00 AM,17519,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2581,60495,25SEP2008:12:00:00 AM,26SEP2008:12:00:00 AM,50000,Settled,Leiomyoma of uterus,D25,Surgical Management,Thane,HopID-705
+2609,7162,02SEP2008:12:00:00 AM,09SEP2008:12:00:00 AM,3455,Settled,Essential (primary) hypertension,I10,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2616,16942,06JUL2008:12:00:00 AM,14JUL2008:12:00:00 AM,16142,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+2620,5015,26AUG2008:12:00:00 AM,29AUG2008:12:00:00 AM,4513,Settled,Dengue fever [classical dengue],A90,Medical Management ( Conservartive Management),Gurgaon,HopID-995
+2621,5945,24AUG2008:12:00:00 AM,26AUG2008:12:00:00 AM,1945,Settled,Other acute ischaemic heart diseases,I24,Coronary Angiogram (CAG),Bangalore,HopID-399
+2631,9616,09SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,9556,Settled,Angina pectoris,I20,Medical Management ( Conservartive Management),Mumbai,HopID-234
+2641,44110,23SEP2008:12:00:00 AM,28SEP2008:12:00:00 AM,39110,Settled,Malignant neoplasm of colon,C18,Therapy (Chemo / Radio),Mumbai,HopID-272
+2648,32072,02OCT2008:12:00:00 AM,07OCT2008:12:00:00 AM,30000,Cancelled,"Complications of internal orthopaedic prosthetic devices, implants and",T84,Surgical Management,Mumbai,HopID-231
+2655,41501,06OCT2008:12:00:00 AM,12OCT2008:12:00:00 AM,37172,Settled,Gastritis and duodenitis,K29,Medical Management ( Conservartive Management),Mumbai,HopID-98
+2660,43000,26DEC2008:12:00:00 AM,29DEC2008:12:00:00 AM,20000,Settled,Acute Sinusitis,J01,Surgical Management,Chennai,HopID-82
+2664,50000,21DEC2008:07:38:00 PM,26DEC2008:12:00:00 AM,15000,Settled,Other symptoms and signs,R68,Medical Management ( Conservartive Management),Bangalore,HopID-610
+2673,41096,01SEP2008:10:28:00 AM,07SEP2008:12:00:00 AM,41096,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+2675,27128,04SEP2008:12:00:00 AM,05SEP2008:12:00:00 AM,18915,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+2693,12985,19DEC2008:06:11:00 PM,22DEC2008:12:00:00 AM,12985,Settled,Other disorders of brain in diseases classified elsewhere,G94,Medical Management ( Conservartive Management),Bangalore,HopID-610
+2715,24000,22OCT2008:12:52:00 PM,23OCT2008:12:00:00 AM,24000,Settled,Senile cataract RE (Rt. Eye),H25,Cataract,Mumbai,HopID-355
+2723,5253,08SEP2008:12:00:00 AM,10SEP2008:12:00:00 AM,4633,Settled,"Complications of other internal prosthetic devices, implants and grafts",T85,Surgical Management,Bangalore,HopID-695
+2732,201666,22AUG2008:12:00:00 AM,30AUG2008:12:00:00 AM,200552,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2739,16881,18SEP2008:12:00:00 AM,20SEP2008:12:00:00 AM,0,Settled,Premature separation of placenta [abruptio placentae],O45,Medical Management ( Conservartive Management),Pune,HopID-535
+2742,7683,18SEP2008:12:00:00 AM,23SEP2008:12:00:00 AM,6652,Settled,Plasmodium falciparum malaria,B50,Medical Management ( Conservartive Management),Mumbai,HopID-484
+2744,26633,08OCT2008:12:00:00 AM,10OCT2008:12:00:00 AM,26533,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+2765,34108,02DEC2008:12:00:00 AM,05DEC2008:12:00:00 AM,0,Settled,"Benign neoplasm of colon, rectum, anus and anal canal",D12,Surgical Management,Mumbai,HopID-988
+2785,5423,27APR2008:12:00:00 AM,02MAY2008:12:00:00 AM,4823,Cancelled,Senile cataract LE (Left Eye),H26,Cataract,Kota,HopID-996
+2786,28316,29SEP2008:12:00:00 AM,07OCT2008:12:00:00 AM,25766,Settled,Single delivery by caesarean section,O82,Surgical Management,Bangalore,HopID-979
+2793,27000,06SEP2008:12:00:00 AM,06SEP2008:12:00:00 AM,27000,Denied Letter Sent,Acute Bronchitis,J20,Medical Management ( Conservartive Management),Chennai,HopID-68
+2804,100078,03OCT2008:12:00:00 AM,04OCT2008:12:00:00 AM,54000,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+2805,8700,12SEP2008:04:08:00 PM,19SEP2008:12:00:00 AM,8000,Settled,Cervical disc disorders,M50,Medical Management ( Conservartive Management),Trivandram,HopID-73
+2821,44000,10OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,44000,Settled,Single spontaneous delivery,O80,Medical Management ( Conservartive Management),Trivandram,HopID-728
+2838,30000,16OCT2008:04:09:00 PM,19OCT2008:12:00:00 AM,15000,Settled,Diaorrhoea & gastroenteritis of presumed infectious origin,A09,Medical Management ( Conservartive Management),Bangalore,HopID-399
+2841,7735,26JUL2008:12:00:00 AM,01AUG2008:12:00:00 AM,7625,Cancelled,Acute pancreatitis,K85,Medical Management ( Conservartive Management),Bangalore,HopID-32
+2850,26291,01OCT2008:12:00:00 AM,08OCT2008:12:00:00 AM,0,Settled,Inguinal Hernia,K40,Surgical Management,Chennai,HopID-82
+2862,15000,23DEC2008:06:39:00 PM,25DEC2008:12:00:00 AM,8000,Settled,"Redundant perpuce, phimosis and paraphimosis",N47,Surgical Management,Puttur,HopID-207
+2866,18000,29DEC2008:12:00:00 AM,30DEC2008:12:00:00 AM,18000,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-49
+2873,18296,29NOV2008:12:00:00 AM,03DEC2008:12:00:00 AM,18271,Settled,Atherosclerosis,I70,Coronary Angiogram (CAG),Bangalore,HopID-690
+2905,71925,06SEP2008:12:00:00 AM,13SEP2008:12:00:00 AM,57496,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-931
+2906,18591,10AUG2008:12:00:00 AM,15AUG2008:12:00:00 AM,11711,Settled,"Fracture of lower leg, including ankle",S82,Surgical Management,Hyderabad,HopID-73
+2908,38741,29AUG2008:12:00:00 AM,02SEP2008:12:00:00 AM,35000,Settled,Cervical disc disorders,M50,Medical Management ( Conservartive Management),Trivandram,HopID-73
+2916,45523,11DEC2008:06:17:00 PM,26DEC2008:12:00:00 AM,45488,Settled,Other nontraumatic intracranial haemorrhage,I62,Surgical Management,Bangalore,HopID-32
+2935,2471,31JUL2008:12:00:00 AM,01AUG2008:12:00:00 AM,2372,Settled,Suppurative and unspecified otitis media,H66,Surgical Management,Chennai,HopID-499
+2938,8088,25SEP2008:12:00:00 AM,27SEP2008:12:00:00 AM,7858,Settled,Other diseases of anus and rectum,K62,Surgical Management,Bhubaneswar,HopID-814
+2940,10552,18AUG2008:12:00:00 AM,19AUG2008:12:00:00 AM,0,Settled,Unspecified malaria,B54,Medical Management ( Conservartive Management),Mumbai,HopID-901
+2946,134934,05AUG2008:12:00:00 AM,10AUG2008:12:00:00 AM,115611,Denied Letter Sent,Retention of urine,R33,Medical Management ( Conservartive Management),Chennai,HopID-305
+2949,40702,29NOV2008:12:00:00 AM,29NOV2008:12:00:00 AM,40602,Settled,Senile cataract LE (Left Eye),H26,Cataract,Chennai,HopID-137
+2971,19016,15DEC2008:12:00:00 AM,23DEC2008:12:00:00 AM,19016,Settled,Leiomyoma of uterus,D25,Surgical Management,Kolkata,HopID-399
+2974,19918,09OCT2008:12:00:00 AM,11OCT2008:12:00:00 AM,16453,Settled,Haemorrhoids,I84,Surgical Management,Bangalore,HopID-428
+2975,14303,22SEP2008:12:00:00 AM,25SEP2008:12:00:00 AM,14303,Denied Letter Sent,Other disorders of breast,N64,Surgical Management,Bangalore,HopID-442
+2984,23000,13DEC2008:12:00:00 AM,13DEC2008:12:00:00 AM,23000,Settled,Single spontaneous delivery,O80,Medical Management ( Conservartive Management),Vishakapatan,HopID-948
